@@ -28,5 +28,7 @@
 - Хранение данных в PostgreSQL, ручная реализация репозиториев
 
 ## Связь со мной
+Рассматриваю предложения о работе и всегда рад помочь в развитии опенсорса
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/roflguru)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=flat&logoColor=white)]([janp0l](https://discord.gg/ucGKnypa))
